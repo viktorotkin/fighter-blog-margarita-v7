@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Sitemap: https://viktorotkin.github.io/fighter-blog-margarita-v7/sitemap.xml
